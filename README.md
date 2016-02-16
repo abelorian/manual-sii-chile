@@ -1,7 +1,18 @@
-## Manual para sitio de Servicio Impuestos Internos de Chile
+# Manual para sitio de Servicio Impuestos Internos de Chile
 
 
-#### Anular boletas recibidas
+## Tipo de impuesto asociado a Boletas de Honorario
+
+
+#### El receptor de la boleta actuará reteniendo el 10% del total de los honorarios.
+
+En esta opción es el empleador el que retiene el 10% del total.
+
+#### El contribuyente emisor será quien se encargue del pago provisional mensual correspondiente al 10%.
+
+En esta opción el 10% del pago se al que emite la boleta por el servicio.
+
+## Anular boletas recibidas
 
 1. Boleta de honorarios 
 2. Emison de boleta honorarios 
